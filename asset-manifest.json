@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/count_App/static/css/main.0843dfc5.css",
+    "main.js": "/count_App/static/js/main.94e299ff.js",
+    "index.html": "/count_App/index.html",
+    "main.0843dfc5.css.map": "/count_App/static/css/main.0843dfc5.css.map",
+    "main.94e299ff.js.map": "/count_App/static/js/main.94e299ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0843dfc5.css",
+    "static/js/main.94e299ff.js"
+  ]
+}
